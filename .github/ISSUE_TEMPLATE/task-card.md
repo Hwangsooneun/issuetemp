@@ -1,5 +1,5 @@
 ---
-name: Task card
+name: Task card2
 about: 프로젝트 계획에 따른 작업을 작성하는 템플릿입니다.
 title: "[Task] 이슈 제목 설정해 주세요 !!!"
 labels: 'Advanced, Bare-minimum, Client, E: 0.5h, E: 1.5h, E: 1h, E: 2.5h, E: 2h,
@@ -9,7 +9,7 @@ assignees: ''
 ---
 
 ### ISSUE
-- Group:  `client`, `server`, `sr`
+- Group:  `client`
 - Type: `bug`, `feature`, `delete`
 - Detail: fix actions from client redux
 
